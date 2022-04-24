@@ -93,7 +93,12 @@ def new_round():
 	old_rounds = this_round.copy()
 
 for i in range(3):
-	print("round " + str(i + 1))
-	new_round()
+	if number_of_players > 10:
+		print("round " + str(i + 1))
+		new_round()
+	else:
+		for i in range(5):
+			print("round " + str(i + 1))
+			new_round()
 
 
