@@ -68,6 +68,20 @@ def new_round():
 
 			pop_table.append(new_table)
 		# print()
+	for i in range(number_of_table):
+		if len(this_round[i]) <= 5:
+			for j in range(number_of_table):
+				if i == j:
+					continue
+				temp = 100000000
+				Id = -1
+				for player in this_round[j]:
+					c = check_group(this_round[i], player)
+					if c < temp:
+						temp = c
+						Id = j
+				this_round[i].append(this_round[j][Id])
+				this_round[j].pop(Id)
 
 	for i in range(number_of_table):
 		for j in this_round[i]:
