@@ -69,10 +69,12 @@ def new_round():
 			pop_table.append(new_table)
 		# print()
 	for i in range(number_of_table):
-		if len(this_round[i]) <= 5:
+		if len(this_round[i]) <= 6:
 			for j in range(number_of_table):
 				if i == j:
 					continue
+				if len(this_round[i]) >= 8:
+					break
 				temp = 100000000
 				Id = -1
 				for player in this_round[j]:
