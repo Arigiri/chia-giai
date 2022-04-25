@@ -109,14 +109,14 @@ def output():
 			f.write(j.name + '\n')
 		f.write('\n')
 
-for i in range(3):
-	if number_of_players > 11:
+if number_of_players > 11:
+	for i in range(3):
 		f.write("round " + str(i + 1) + '\n')
 		output()
-	else:
-		for i in range(5):
-			f.write("round " + str(i + 1) + '\n')
-			for player in Players:
-				f.write(player.name + '\n')
-			f.write('\n')
+else:
+	for i in range(5):
+		f.write("round " + str(i + 1) + '\n')
+		for player in Players:
+			f.write(player.name + '\n')
+		f.write('\n')
 f.close()

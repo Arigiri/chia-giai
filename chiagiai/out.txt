@@ -1,0 +1,84 @@
+round 1
+Nguyễn Văn 18
+Nguyễn Văn 16
+Nguyễn Văn 5
+Nguyễn Văn 2
+Nguyễn Văn 17
+Nguyễn Văn 10
+Nguyễn Văn 22
+Nguyễn Văn 23
+
+Nguyễn Văn 20
+Nguyễn Văn 1
+Nguyễn Văn 11
+Nguyễn Văn 6
+Nguyễn Văn 19
+Nguyễn Văn 21
+Nguyễn Văn 9
+Nguyễn Văn 3
+
+Nguyễn Văn 7
+Nguyễn Văn 12
+Nguyễn Văn 14
+Nguyễn Văn 13
+Nguyễn Văn 4
+Nguyễn Văn 15
+Nguyễn Văn 8
+Nguyễn Văn 24
+
+round 2
+Nguyễn Văn 20
+Nguyễn Văn 9
+Nguyễn Văn 6
+Nguyễn Văn 3
+Nguyễn Văn 1
+Nguyễn Văn 21
+Nguyễn Văn 11
+Nguyễn Văn 19
+
+Nguyễn Văn 7
+Nguyễn Văn 14
+Nguyễn Văn 24
+Nguyễn Văn 15
+Nguyễn Văn 12
+Nguyễn Văn 8
+Nguyễn Văn 4
+Nguyễn Văn 13
+
+Nguyễn Văn 17
+Nguyễn Văn 23
+Nguyễn Văn 5
+Nguyễn Văn 10
+Nguyễn Văn 22
+Nguyễn Văn 18
+Nguyễn Văn 16
+Nguyễn Văn 2
+
+round 3
+Nguyễn Văn 8
+Nguyễn Văn 4
+Nguyễn Văn 24
+Nguyễn Văn 13
+Nguyễn Văn 12
+Nguyễn Văn 14
+Nguyễn Văn 7
+Nguyễn Văn 15
+
+Nguyễn Văn 1
+Nguyễn Văn 3
+Nguyễn Văn 2
+Nguyễn Văn 17
+Nguyễn Văn 5
+Nguyễn Văn 22
+Nguyễn Văn 23
+Nguyễn Văn 10
+
+Nguyễn Văn 19
+Nguyễn Văn 6
+Nguyễn Văn 9
+Nguyễn Văn 16
+Nguyễn Văn 21
+Nguyễn Văn 18
+Nguyễn Văn 20
+Nguyễn Văn 11
+
