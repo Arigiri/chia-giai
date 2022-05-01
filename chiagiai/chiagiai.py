@@ -1,7 +1,8 @@
 from Player import *
 import random
+import time
+f = open("PlayerList.txt")
 
-f = open("PlayerList.txt", encoding = "utf-8")
 tmp = f.readlines()
 Players = []
 old_rounds = []
@@ -116,6 +117,7 @@ if number_of_players > 11:
 else:
 	for i in range(5):
 		f.write("round " + str(i + 1) + '\n')
+		random.shuffle(Players)
 		for player in Players:
 			f.write(player.name + '\n')
 		f.write('\n')

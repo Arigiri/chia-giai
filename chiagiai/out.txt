@@ -1,84 +1,60 @@
 round 1
-Nguyễn Văn 18
-Nguyễn Văn 16
-Nguyễn Văn 5
-Nguyễn Văn 2
-Nguyễn Văn 17
-Nguyễn Văn 10
-Nguyễn Văn 22
-Nguyễn Văn 23
-
-Nguyễn Văn 20
-Nguyễn Văn 1
-Nguyễn Văn 11
-Nguyễn Văn 6
-Nguyễn Văn 19
-Nguyễn Văn 21
-Nguyễn Văn 9
-Nguyễn Văn 3
-
-Nguyễn Văn 7
-Nguyễn Văn 12
-Nguyễn Văn 14
-Nguyễn Văn 13
-Nguyễn Văn 4
-Nguyễn Văn 15
-Nguyễn Văn 8
-Nguyễn Văn 24
+[10]
+[4]
+[2]
+[8]
+[3]
+[9]
+[7]
+[1]
+[5]
+[6]
 
 round 2
-Nguyễn Văn 20
-Nguyễn Văn 9
-Nguyễn Văn 6
-Nguyễn Văn 3
-Nguyễn Văn 1
-Nguyễn Văn 21
-Nguyễn Văn 11
-Nguyễn Văn 19
-
-Nguyễn Văn 7
-Nguyễn Văn 14
-Nguyễn Văn 24
-Nguyễn Văn 15
-Nguyễn Văn 12
-Nguyễn Văn 8
-Nguyễn Văn 4
-Nguyễn Văn 13
-
-Nguyễn Văn 17
-Nguyễn Văn 23
-Nguyễn Văn 5
-Nguyễn Văn 10
-Nguyễn Văn 22
-Nguyễn Văn 18
-Nguyễn Văn 16
-Nguyễn Văn 2
+[4]
+[8]
+[6]
+[10]
+[2]
+[3]
+[9]
+[1]
+[7]
+[5]
 
 round 3
-Nguyễn Văn 8
-Nguyễn Văn 4
-Nguyễn Văn 24
-Nguyễn Văn 13
-Nguyễn Văn 12
-Nguyễn Văn 14
-Nguyễn Văn 7
-Nguyễn Văn 15
+[8]
+[2]
+[6]
+[10]
+[4]
+[9]
+[1]
+[3]
+[5]
+[7]
 
-Nguyễn Văn 1
-Nguyễn Văn 3
-Nguyễn Văn 2
-Nguyễn Văn 17
-Nguyễn Văn 5
-Nguyễn Văn 22
-Nguyễn Văn 23
-Nguyễn Văn 10
+round 4
+[10]
+[5]
+[7]
+[6]
+[3]
+[9]
+[4]
+[8]
+[1]
+[2]
 
-Nguyễn Văn 19
-Nguyễn Văn 6
-Nguyễn Văn 9
-Nguyễn Văn 16
-Nguyễn Văn 21
-Nguyễn Văn 18
-Nguyễn Văn 20
-Nguyễn Văn 11
+round 5
+[2]
+[1]
+[9]
+[4]
+[8]
+[7]
+[10]
+[6]
+[5]
+[3]
 
